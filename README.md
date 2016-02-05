@@ -64,7 +64,7 @@ export default CSSModules(Test, styles);
 
 ## modules
 
-You should include the font on the page as follows if you want Raleway as is used in CSS Skeleton's examples, or provide your own font.
+You should include the font on the page as follows if you want Raleway as is used in CSS Skeleton's examples:
 
 ```html
 <link href='//fonts.googleapis.com/css?family=Raleway:400,300,600' rel='stylesheet' type='text/css'>
@@ -82,7 +82,6 @@ You should include the font on the page as follows if you want Raleway as is use
 - tables
 - spacing
 - utilities
-
 - media queries (no need to import these, you just use them in your own modules)
 
 ```css

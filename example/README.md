@@ -1,6 +1,6 @@
 ## example
 
-an example of using bootstrap, react, webpack and css modules...
+an example of using skeleton, react, webpack and css modules...
 
 ## Dependencies
 
