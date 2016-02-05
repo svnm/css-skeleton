@@ -20,15 +20,16 @@ Simply import your skeleton css modules
 Then use it for styling your elements.
 
 ```jsx
-<div styleName="container">
-  <div styleName="row">
-    <div styleName="six column">
-      <h2>Heading</h2>
+  <div styleName='container'>
+    <div styleName='row'>
+      <div styleName='six column'>
+        <h2>Heading</h2>
+      </div>
+      <div styleName='six columns'>
+        <input type='button' value='button input' />
+      </div>
     </div>
-  <div styleName="six columns">
-    <input type="button" value="button input">
   </div>
-</div>
 ```
 
 ## Example
@@ -46,13 +47,14 @@ Object.assign(styles, base, buttons, grid)
 class Test extends React.Component {
     render () {
         return (
-        <div styleName="container">
-          <div styleName="row">
-          <div styleName="six column">
-            <h2>Heading</h2>
-          </div>
-          <div styleName="six columns">
-            <input type="button" value="button input">
+        <div styleName='container'>
+          <div styleName='row'>
+            <div styleName='six column'>
+              <h2>Heading</h2>
+            </div>
+            <div styleName='six columns'>
+              <input type='button' value='button input' />
+            </div>
           </div>
         </div>
         );
