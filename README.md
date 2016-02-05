@@ -33,7 +33,7 @@ Then use it for styling your elements.
 
 ## Example
 
-Check out the full working example [here](https://github.com/StevenIseki/css-skelton/tree/master/example)
+Check out the full working example [here](https://github.com/StevenIseki/css-skeleton/tree/master/example)
 
 ```jsx
 import React from 'react'
