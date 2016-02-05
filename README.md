@@ -1,4 +1,4 @@
-# [css-skeleton]()
+# [css-skeleton](http://getskeleton.com)
 
 [![npm version](https://badge.fury.io/js/pure-css.svg)](https://badge.fury.io/js/pure-css)
 
