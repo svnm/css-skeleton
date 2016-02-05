@@ -1,0 +1,22 @@
+{
+  "name": "css-skeleton",
+  "version": "1.0.0",
+  "description": "A css module compatible version of skeleton http://getskeleton.com",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/StevenIseki/css-skeleton.git"
+  },
+  "keywords": [
+    "skeleton",
+    "css-skeleton",
+    "css skeleton",
+    "css",
+    "css-module",
+    "css module",
+    "react",
+    "reactjs",
+    "react-component"
+  ],
+  "license": "MIT"
+}
